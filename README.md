@@ -10,3 +10,6 @@
 - 前端: Quasar
 - 後端: JSP(tomcat server)
 - 資料庫: MySQL (or sqlite oracle)
+
+## 策略
+用docker-compose來管理前端、後端、資料庫
