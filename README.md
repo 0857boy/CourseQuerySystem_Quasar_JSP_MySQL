@@ -7,6 +7,8 @@
 - 修改課程
 
 ## 架構
+![網路圖片](./Imgs/example.png)
+
 - 前端: Quasar
 - 後端: JSP(tomcat server)
 - 資料庫: MySQL (or sqlite oracle)
