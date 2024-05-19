@@ -49,5 +49,17 @@ DESC table_name;
 - 表格是一個結構化的資料集合。
 - 表格是資料庫中的一個物件，用於存儲資料。
 
+## Intellij 設定 JDBC
 
+透過maven安裝mysql-connector-java
+```xml
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.33</version>
+</dependency>
+```
+## 參考資料
 
+- [MySQL 官方網站](https://www.mysql.com/)
+- [MySQL - 維基百科](https://zh.wikipedia.org/wiki/MySQL)
