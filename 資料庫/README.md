@@ -12,6 +12,24 @@ MySQL 是一個開源的關聯式資料庫管理系統，由瑞典 MySQL AB 公�
 mysql -u root -p
 ```
 
+### 檢查是否在運行
+
+```bash
+sc query [service_name]
+```
+
+### 啟動 MySQL
+
+```bash
+net start mysql
+```
+
+### 關閉 MySQL
+
+```bash
+net stop mysql
+```
+
 ### 顯示所有資料庫
 
 ```sql
