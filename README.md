@@ -38,4 +38,4 @@
 - 切換頁面: 可以在不同的頁面間切換。
 - 可同時開啟多個頁面，並且及時更新。
 
-![MultiPage](./Imgs/MultiPage.gif)
+![MultiPage](./Imgs/multiPage.gifultiPage.gif)
